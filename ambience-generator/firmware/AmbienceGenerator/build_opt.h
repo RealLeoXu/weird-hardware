@@ -1,0 +1,3 @@
+-DRNBO_LIB_PREFIX=rnbo/common
+-DRNBO_USE_FLOAT32
+-O3
