@@ -1,6 +1,6 @@
 # Ambience Generator
 
-A pocket box that makes ambient sound. Three knobs: Noise + Crackle, Rain, Birds. Runs on battery, fully offline.
+A pocket box that makes ambient sound. Three knobs: Noise + Crackle, Rain, Birds. Powered over USB, fully offline.
 
 <img src="media/photo.jpg" width="420">
 
@@ -12,7 +12,6 @@ Demo video: [media/demo.mp4](media/demo.mp4)
 - UDA1334A I2S DAC with headphone out (BCLK 4, WSEL 5, DIN 6)
 - SSD1306 0.96" OLED (SDA 8, SCL 9)
 - 3x EC11 encoders (CLK/DT 14/13, 10/11, 15/16), one shared button on GPIO 21
-- 3.7 V LiPo + USB-C charge/boost module
 - 3D printed case: `cad/` (tray + lid)
 
 ## How it works
